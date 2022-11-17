@@ -4,19 +4,10 @@
 # Written by: Alessio Giuseppe Manfrè
 # Name: BlazingDIFR.sh
 # email: alessiogiuseppemanfre@gmail.com
-#
-#	Collects DIFR data from a specified host that the script will ask for
-# ex: .\BlazingDIFR.sh -collect
-#
-#	Start DIFR process in a specified host that the script will ask for
-# ex: .\BlazingDIFR.sh -target
-#
-#	Start DIFR process in a specified host list (Expects ./EndpointList.txt List)
-# ex: .\BlazingDIFR.sh -list
-#
-#	Collects DIFR data from a specified host list
-# ex: .\BlazingDIFR.sh -list -collect
-#
+# # DETAILS # #
+# This script has the task of extracting artifacts useful for malware analysis in an infected linux system.
+# This script has been developed under license to Yarix Srl for internal Team IR activities. 
+# However, this script is open source and you are free to replace or improve it.
 #################################################################################
 
 ##### DECLARE STARTING OPERATIONS #####
